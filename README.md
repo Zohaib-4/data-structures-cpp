@@ -10,6 +10,7 @@ Data structures are essential tools for organizing and storing data in a compute
 
 The following data structures are currently implemented in this repository:
 
-Linked List (Singly)
+Singly Linked List
+Doubly Linked List
 
 Each data structure is implemented in its own header and source file for easy inclusion in your projects.
